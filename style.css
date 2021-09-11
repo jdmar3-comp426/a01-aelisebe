@@ -1,0 +1,7 @@
+.italic{font-style: italic;}
+h1{font: 20px Arial; color: red}
+h2{font: 15px Helvetica}
+ul{background-color: #ffebcd;}
+img{border: 2px brown; width:50%; height:auto}
+a:hover{color:darkblue}
+#literature{color:darkcyan}
