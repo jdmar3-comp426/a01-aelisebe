@@ -6,5 +6,6 @@ img{border: 2px brown; width:50%; height:auto}
 a:hover{color:darkblue}
 a{color: salmon}
 #literature{color:darkcyan}
+#tw{background-color: tomato; color:violet; font: 11pt}
 p{font:14px}
-body{background-color: tan; font: 12px;}
+body{background-color: tan; font: 12px; color:teal}
