@@ -1,7 +1,7 @@
 .italic{font-style: italic; color:sienna}
 h1{font: 20px; font-family: 'Courier New', Courier, monospace; color: red}
 h2{font: 15px; font-family: Arial, Helvetica, sans-serif; color:slategray}
-ul > li{background-color: #ffebcd;}
+ul li{background-color: #ffebcd;}
 img{border: 2px brown; width:50%; height:auto}
 a:hover{color:darkblue}
 a{color: salmon}
